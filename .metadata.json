@@ -1,22 +1,6 @@
 [
   {
-    "package": "agop",
-    "oncran": true
-  },
-  {
-    "package": "CITAN",
-    "oncran": true
-  },
-  {
     "package": "FuzzyNumbers",
-    "oncran": true
-  },
-  {
-    "package": "genie",
-    "oncran": true
-  },
-  {
-    "package": "genieclust",
     "oncran": true
   },
   {
@@ -24,11 +8,27 @@
     "oncran": true
   },
   {
-    "package": "stringi",
+    "package": "CITAN",
     "oncran": true
   },
   {
     "package": "stringx",
+    "oncran": true
+  },
+  {
+    "package": "genieclust",
+    "oncran": true
+  },
+  {
+    "package": "agop",
+    "oncran": true
+  },
+  {
+    "package": "genie",
+    "oncran": true
+  },
+  {
+    "package": "stringi",
     "oncran": true
   },
   {

@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "agop"]
-	path = agop
-	url = https://github.com/gagolews/agop
-	shallow = true
-	registered = true
-[submodule "CITAN"]
-	path = CITAN
-	url = https://github.com/gagolews/citan
-	shallow = true
-	registered = true
 [submodule "FuzzyNumbers"]
 	path = FuzzyNumbers
 	url = https://github.com/gagolews/fuzzynumbers
-	shallow = true
-	registered = true
-[submodule "genie"]
-	path = genie
-	url = https://github.com/gagolews/genie
-	shallow = true
-	registered = true
-[submodule "genieclust"]
-	path = genieclust
-	url = https://github.com/gagolews/genieclust
 	shallow = true
 	registered = true
 [submodule "realtest"]
@@ -33,14 +13,34 @@
 	url = https://github.com/gagolews/realtest
 	shallow = true
 	registered = true
-[submodule "stringi"]
-	path = stringi
-	url = https://github.com/gagolews/stringi
+[submodule "CITAN"]
+	path = CITAN
+	url = https://github.com/gagolews/citan
 	shallow = true
 	registered = true
 [submodule "stringx"]
 	path = stringx
 	url = https://github.com/gagolews/stringx
+	shallow = true
+	registered = true
+[submodule "genieclust"]
+	path = genieclust
+	url = https://github.com/gagolews/genieclust
+	shallow = true
+	registered = true
+[submodule "agop"]
+	path = agop
+	url = https://github.com/gagolews/agop
+	shallow = true
+	registered = true
+[submodule "genie"]
+	path = genie
+	url = https://github.com/gagolews/genie
+	shallow = true
+	registered = true
+[submodule "stringi"]
+	path = stringi
+	url = https://github.com/gagolews/stringi
 	shallow = true
 	registered = true
 [submodule "TurtleGraphics"]
