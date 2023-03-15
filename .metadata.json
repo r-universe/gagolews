@@ -1,10 +1,6 @@
 [
   {
-    "package": "FuzzyNumbers",
-    "oncran": true
-  },
-  {
-    "package": "realtest",
+    "package": "agop",
     "oncran": true
   },
   {
@@ -12,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "stringx",
-    "oncran": true
-  },
-  {
-    "package": "genieclust",
-    "oncran": true
-  },
-  {
-    "package": "agop",
+    "package": "FuzzyNumbers",
     "oncran": true
   },
   {
@@ -28,7 +16,19 @@
     "oncran": true
   },
   {
+    "package": "genieclust",
+    "oncran": true
+  },
+  {
+    "package": "realtest",
+    "oncran": true
+  },
+  {
     "package": "stringi",
+    "oncran": true
+  },
+  {
+    "package": "stringx",
     "oncran": true
   },
   {
