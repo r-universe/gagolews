@@ -2,15 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "agop"]
-	path = agop
-	url = https://github.com/gagolews/agop
 [submodule "CITAN"]
 	path = CITAN
 	url = https://github.com/gagolews/citan
 [submodule "FuzzyNumbers"]
 	path = FuzzyNumbers
 	url = https://github.com/gagolews/fuzzynumbers
+[submodule "TurtleGraphics"]
+	path = TurtleGraphics
+	url = https://github.com/gagolews/turtlegraphics
+[submodule "agop"]
+	path = agop
+	url = https://github.com/gagolews/agop
 [submodule "genie"]
 	path = genie
 	url = https://github.com/gagolews/genie
@@ -26,6 +29,3 @@
 [submodule "stringx"]
 	path = stringx
 	url = https://github.com/gagolews/stringx
-[submodule "TurtleGraphics"]
-	path = TurtleGraphics
-	url = https://github.com/gagolews/turtlegraphics
