@@ -14,6 +14,9 @@
 [submodule "agop"]
 	path = agop
 	url = https://github.com/gagolews/agop
+[submodule "deadwood"]
+	path = deadwood
+	url = https://github.com/gagolews/deadwood
 [submodule "genie"]
 	path = genie
 	url = https://github.com/gagolews/genie
