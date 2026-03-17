@@ -23,6 +23,9 @@
 [submodule "genieclust"]
 	path = genieclust
 	url = https://github.com/gagolews/genieclust
+[submodule "lumbermark"]
+	path = lumbermark
+	url = https://github.com/gagolews/lumbermark
 [submodule "quitefastmst"]
 	path = quitefastmst
 	url = https://github.com/gagolews/quitefastmst
